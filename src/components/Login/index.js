@@ -62,6 +62,10 @@ const Login = () => {
                         </button>
                     </div>
                 </form>
+                <div style={{ color: '#fff', textAlign: 'center' }}>
+                    <p>Default user: admin</p>
+                    <p>Default password: 123456</p>
+                </div>
             </div>
         </div>
     )
